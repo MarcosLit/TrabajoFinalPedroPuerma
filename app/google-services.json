@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779128774907",
+    "project_id": "pmdp-c6eaa",
+    "storage_bucket": "pmdp-c6eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779128774907:android:1e802d7e1195a1b717105e",
+        "android_client_info": {
+          "package_name": "com.example.ejericicio11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779128774907-1f9kdgmvoo72gvdcaibsdcrn586pigo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcSk8J1AOj5IQBM4n9Y6UC-8Aw3bDDrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779128774907-1f9kdgmvoo72gvdcaibsdcrn586pigo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
